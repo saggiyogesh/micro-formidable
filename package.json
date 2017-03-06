@@ -1,0 +1,38 @@
+{
+  "name": "micro-formidable",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.7.1"
+  },
+  "scripts": {
+    "test": "NODE_ENV=development ava --fail-fast --verbose",
+    "test:watch": "NODE_ENV=development ava --fail-fast --verbose --watch",
+    "lint": "standard",
+    "pretest": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saggiyogesh/micro-formidable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saggiyogesh/micro-formidable/issues"
+  },
+  "homepage": "https://github.com/saggiyogesh/micro-formidable#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "formidable": "^1.1.1",
+    "micro": "^7.1.0",
+    "standard": "^9.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "request": "^2.80.0",
+    "request-promise": "^4.1.1",
+    "test-listen": "^1.0.1"
+  }
+}
