@@ -16,9 +16,9 @@
     "type": "git",
     "url": "git+https://github.com/saggiyogesh/micro-formidable.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["micro", "formidable", "multipart", "forms"],
+  "author": "saggiyogesh@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/saggiyogesh/micro-formidable/issues"
   },
