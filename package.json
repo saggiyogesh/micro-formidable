@@ -27,10 +27,10 @@
     "bluebird": "^3.5.0",
     "formidable": "^1.1.1",
     "micro": "^7.1.0",
-    "standard": "^9.0.0"
+    "standard": "^10.0.1"
   },
   "devDependencies": {
-    "ava": "^0.18.2",
+    "ava": "^0.19.1",
     "is-path-in-cwd": "^1.0.0",
     "request": "^2.80.0",
     "request-promise": "^4.1.1",
