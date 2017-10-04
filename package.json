@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/saggiyogesh/micro-formidable#readme",
   "dependencies": {
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.5.1",
     "formidable": "^1.1.1",
     "micro": "^7.1.0",
     "standard": "^10.0.1"
