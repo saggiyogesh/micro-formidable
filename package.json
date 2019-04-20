@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "ava": "^0.19.1",
-    "is-path-in-cwd": "^1.0.0",
+    "is-path-in-cwd": "^2.1.0",
     "request": "^2.80.0",
     "request-promise": "^4.1.1",
     "test-listen": "^1.0.1"
