@@ -27,7 +27,7 @@
     "bluebird": "^3.5.0",
     "formidable": "^1.1.1",
     "micro": "^7.1.0",
-    "standard": "^10.0.1"
+    "standard": "^14.3.4"
   },
   "devDependencies": {
     "ava": "^0.19.1",
